@@ -1,0 +1,9 @@
+{
+  "name": "ts-electron",
+  "version": "1.0.0",
+  "description": "Typescript Electron",
+  "main": "main.js",
+  "repository": "https://github.com/hquach729/ts-electron.git",
+  "author": "Hung Quach",
+  "license": "MIT"
+}
